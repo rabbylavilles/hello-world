@@ -7,7 +7,7 @@ Good luck to me.
 
 This editing is the second part.
 
-The content of the second edit is different from the first branch. This is about by degree rather than personal life in the first part. 
+The content of the second edit is different from the first branch. This is about by degree rather than personal life in the first part. My bachelor degree is Bachelor of Science in Business Administration Major in Information Systems 
 
 This editing part is for experiences
 

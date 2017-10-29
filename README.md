@@ -6,3 +6,5 @@ The creator of this practice git is Raffy Lavilles. This is to create an experie
 Good luck to me. 
 
 This editing is the second part.
+
+The content of the second edit is different from the first branch. This is about by degree rather than personal life in the first part. 

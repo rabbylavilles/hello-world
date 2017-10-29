@@ -8,3 +8,7 @@ Good luck to me.
 This editing is the second part.
 
 The content of the second edit is different from the first branch. This is about by degree rather than personal life in the first part. 
+
+This editing part is for experiences
+
+The working experience of raffy starts as an OJT at the library of CBA Library.

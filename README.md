@@ -11,4 +11,4 @@ The content of the second edit is different from the first branch. This is about
 
 This editing part is for experiences
 
-The working experience of raffy starts as an OJT at the library of CBA Library.
+The working experience of raffy starts as an OJT at the library of CBA Library. This content must be separated.
